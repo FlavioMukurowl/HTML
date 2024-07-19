@@ -1,5 +1,3 @@
-# HTML
-Site de Teste: Informações sobre HTML
 <html>
     <head>
             <title>Primeiro teste em html</title>
@@ -17,11 +15,10 @@ Site de Teste: Informações sobre HTML
             <h2 id="Estrutura">Estrutura Basica de HTML</h2>
             <small><a href="#inicio">(Voltar)</a></small>
         </p>
-            <p>
-                HTML (Linguagem de Marcação de HiperTexto) é o bloco de construção mais básico da web. Define o significado e a estrutura do conteúdo da web. Outras tecnologias além do HTML geralmente são usadas para descrever a aparência/apresentação (CSS) ou a funcionalidade/comportamento (JavaScript) de uma página da web;
-                O HTML é estruturado em tags para localizar e navegar dentro da pagina, pode fazer links para outras paginas e até mesmo para a mesma assim se movendo por ela.
-                
-            </p>
+        <p>
+             HTML (Linguagem de Marcação de HiperTexto) é o bloco de construção mais básico da web. Define o significado e a estrutura do conteúdo da web. Outras tecnologias além do HTML geralmente são usadas para descrever a aparência/apresentação (CSS) ou a funcionalidade/comportamento (JavaScript) de uma página da web;
+            O HTML é estruturado em tags para localizar e navegar dentro da pagina, pode fazer links para outras paginas e até mesmo para a mesma assim se movendo por ela.
+        </p>
         <p>
             <h2 id="Tags">Tags</h2>
             <small><a href="#inicio">(Voltar)</a></small>
